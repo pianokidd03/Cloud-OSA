@@ -10,5 +10,5 @@ jQuery is used to implement basic front-end functionality. The data.json file is
 ### Change Directory Into the Repository
 `cd cloud-osa`
 
-### Run the Web Locally
+### Run the Webapp Locally
 There are multiple live servers to choose from. For this project the [Live Server VS Code extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by Ritwick Dey was used. The app can also be run using the `npm live-server` command.
